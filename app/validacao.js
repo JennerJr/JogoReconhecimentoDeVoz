@@ -22,7 +22,7 @@
         }
     }
     function chuteIsInvalido() {
-        return Number.isNaN;
+        return Number.isNaN
     }
 
     function numeroMaiorOuMenorQueValorP(numero){
